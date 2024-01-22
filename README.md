@@ -1,2 +1,48 @@
-# JNT
-JNT.Craking [ FACEBOOK ]
+```text
+ ▄▄▄▄▄  ▄     ▄▄▄▄▀ 
+▄▀  █     █ ▀▀▀ █    
+    █ ██   █    █    
+ ▄ █  █ █  █   █     
+  ▀   █  █ █  ▀      
+      █   ██     JNT.Cracking v0.2.1
+
+© 2024 by @AdityaExec__ founder of XCteamCode
+  https://github.com/AdityaTwinz
+
+>
+```
+<img title="JNT" src="https://img.shields.io/badge/CODENAME%20-JNT.Cracking-SCRIPT?colorA=black&colorB=darkred&style=for-the-badge"> <img title="JNT" src="https://img.shields.io/badge/VERSION%20-0.2.1-SCRIPT?colorA=black&colorB=darkred&style=for-the-badge"> 
+
+*Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap saat. Anda tidak perlu khawatir jika terjadi masalah karena script ini akan mempelajari cara update selanjutnya.*
+
+#### CARA INSTALL SCRIPT:
+ download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
+ 
+ ```
+ $ pkg update && pkg upgrade
+ $ pkg install python
+ $ pkg install git
+ $ pkg install play-audio
+ $ pip install rich
+ $ pip install requests
+ $ pip install bs4
+ $ rm -rf JNT
+ $ git clone https://github.com/AdityaTwinz/JNT
+```
+*- oke sekarang script sudah terinstall*
+##### CARA INSTALL BAHAN SCRIPT:
+
+###### sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini
+
+```
+  $ cd JNT
+  $ git pull
+  $ python run.py
+ ```
+
+###### licence
+
+#### watch me
+**[gunakanlah](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)** dengan bijak, atas apapun yang terjadi **admin** tidak akan bertanggung jawab.
+
+###### Thanks for [AdityaTwinz](https://github.com/AdityaTwinz) and [Xyaa-Code](https://github.com/Xyaa-Code)
