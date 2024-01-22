@@ -1,4 +1,4 @@
-[![@adityaexec_](https://github.com/AdityaTwinz/FBhack/blob/main/images/IMG_20240114_130059.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![@adityaexec_](https://github.com/AdityaTwinz/JNT/blob/main/assets/images%20(5).jpeg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 ```text
  ▄▄▄▄▄  ▄     ▄▄▄▄▀ 
